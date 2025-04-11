@@ -1,3 +1,5 @@
+homework 2 and 3
+
 from abc import ABC, abstractmethod
 
 class Component(ABC):
